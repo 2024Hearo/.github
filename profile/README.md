@@ -5,7 +5,7 @@
 
 Getting Started
 --
-Download Signz directly from GitHub repository. 
+Download Hearo directly from GitHub repository. 
 
 ### Prerequisites
 Before you start, make sure you have installed the following on your system:
@@ -14,7 +14,7 @@ Before you start, make sure you have installed the following on your system:
 - Android emulator or physical device
 
 ### Installation
-1. Clone the Signz/android repository from GitHub:
+1. Clone the Hearo/Android repository from GitHub:
     - https://github.com/2024Hearo/Android.git
 
 2. Open the project folder in Android Studio
