@@ -55,13 +55,22 @@ It provides chatting without language barriers to hearing impaired people, and s
 Our solutions
 ---
 > Chat & Hearobot Chat(Gemini AI)
-
+<div display:"flex">
+  <img src="https://github.com/2024Hearo/.github/assets/100350128/555150c6-334f-4788-a4f6-75e4cbb72bfd" alt="Posts" width="200" height="433.07">
+  <img src="https://github.com/2024Hearo/.github/assets/100350128/ad642c8b-8972-4e49-a01f-98c027f76940" alt="Posts" width="200" height="433.07">
+    <img src="https://github.com/2024Hearo/.github/assets/100350128/9e50cc9c-8dca-4bbe-9ab0-b90c79a3fbe2" alt="Posts" width="200" height="433.07">
+  <img src="https://github.com/2024Hearo/.github/assets/100350128/78477383-df6b-4ff5-8d0f-208c2d615933" alt="Posts" width="200" height="433.07">
+</div>
 Through chatting, we solve communication issues between individuals with hearing impairments and non-disabled individuals. We recognize sign language and convert it into text and voice, and also convert text written by non-disabled individuals into sign language to facilitate mutual communication.
 
  We provide a feature to convert between sign language and text, enabling individuals with hearing impairments to use Gemini as well.
 
 > Sound & Voice Analysis
-
+<div display:"flex">
+  <img src="https://github.com/2024Hearo/.github/assets/100350128/07164fd0-95d5-4ba2-89bb-37aba4354844" alt="Posts" width="200" height="433.07">
+  <img src="https://github.com/2024Hearo/.github/assets/100350128/ada07241-b180-428a-a540-a33c3c11a8ed" alt="Posts" width="200" height="433.07">
+    <img src="https://github.com/2024Hearo/.github/assets/100350128/43fa11b2-66e1-46aa-aace-9c2ca4423cc8" alt="Posts" width="200" height="433.07">
+</div>
  Voice support resolves the difficulties faced by non-speaking individuals with hearing impairments. Instead of sign language, commonly used phrases and requests needed in emergency situations can be expressed in voice. Additionally, alarms have been added to homes for improved accessibility.
 
 ### **Technology Stack**
