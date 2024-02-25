@@ -28,7 +28,7 @@ Overview
 ---
 It provides chatting without language barriers to hearing impaired people, and shows helpful sounds in emergency situations.
 
- "Hearo" combines the words "Heard" + "Hero," symbolizing "being the voice and ears of individuals with hearing impairments." Heroes act as personal sign language interpreters for individuals with hearing impairments, assisting in smooth communication and free expression. It provides chatting without language barriers to hearing impaired people, and provides helpful sounds in emergency situations.
+ "Hearo" combines the words **"Heard" + "Hero,"** symbolizing **"being the voice and ears of individuals with hearing impairments."** Heroes act as personal sign language interpreters for individuals with hearing impairments, assisting in smooth communication and free expression. It provides chatting without language barriers to hearing impaired people, and provides helpful sounds in emergency situations.
  
 ### Background
 "Poor health management, low economic participation, educational achievement", "Risk of depression", "Technological vulnerability"
@@ -51,6 +51,8 @@ It provides chatting without language barriers to hearing impaired people, and s
   <img src="https://github.com/2024Hearo/.github/assets/100350128/d2149f84-0e26-43af-af8a-43b20fbf4e6e" alt="Posts" width="100" height="100">
   <img src="https://github.com/2024Hearo/.github/assets/100350128/42c16d5f-d1d8-49a5-a182-6f0a0d95220d" alt="Posts" width="100" height="100">
 </div>
+
+
 
 
 Our solutions
@@ -86,6 +88,8 @@ Through chatting, we solve communication issues between individuals with hearing
 - Python
 
 
+
+
 Expected effects
 ---
 Through Hearo, we wanted to minimize the technical and linguistic discrimination that hearing-impaired people have faced, and the expected effects of Hero are as follows.
@@ -107,6 +111,8 @@ This is a basic function that can be used not only by the hearing impaired but a
 
 
 Hearo will ultimately ensure autonomy in communication for the hearing impaired and prevent them from becoming socially isolated.
+
+
 
 
 Contributor
