@@ -42,16 +42,15 @@ It provides chatting without language barriers to hearing impaired people, and s
  Therefore, our service aims to address the issues of communication and technological discrimination. Rather than demanding the hearing-impaired become like us through 'Hearo', we seek to respect them and ensure opportunities for fair social participation.
 
  ### Target & Goal
+  <img src="https://github.com/2024Hearo/.github/assets/100350128/4c8a6d15-c86c-4416-97ab-bcd5dfc6f163" alt="Posts" width="65%" height="50%"> <img src="https://github.com/2024Hearo/.github/assets/100350128/af41ba2f-d26a-48f7-b30f-991f502fdd2a" alt="Posts" width="100" height="100">
+  <img src="https://github.com/2024Hearo/.github/assets/100350128/d2149f84-0e26-43af-af8a-43b20fbf4e6e" alt="Posts" width="100" height="100">
+  <img src="https://github.com/2024Hearo/.github/assets/100350128/42c16d5f-d1d8-49a5-a182-6f0a0d95220d" alt="Posts" width="100" height="100">
+
+
+
  The main target is hearing-impaired people (who use sign language as their main language), and the sub-target is people who want to communicate with hearing-impaired.
 
  The service objectives are **"Communication," "Experience," "Equality."** We aim to achieve linguistic equality by overcoming communication barriers for individuals with hearing impairments, ensuring their fundamental rights by enabling their free expression. We will provide various experiences, such as using technology, through linguistic equality. Ultimately, our goal is to narrow the gap between non-disabled individuals and individuals with disabilities, aiming to provide a society without discrimination and with equal opportunities.
-
-<div display:"flex">
-  <img src="https://github.com/2024Hearo/.github/assets/100350128/af41ba2f-d26a-48f7-b30f-991f502fdd2a" alt="Posts" width="100" height="100">
-  <img src="https://github.com/2024Hearo/.github/assets/100350128/d2149f84-0e26-43af-af8a-43b20fbf4e6e" alt="Posts" width="100" height="100">
-  <img src="https://github.com/2024Hearo/.github/assets/100350128/42c16d5f-d1d8-49a5-a182-6f0a0d95220d" alt="Posts" width="100" height="100">
-</div>
-
 
 
 
@@ -64,9 +63,9 @@ Our solutions
     <img src="https://github.com/2024Hearo/.github/assets/100350128/9e50cc9c-8dca-4bbe-9ab0-b90c79a3fbe2" alt="Posts" width="200" height="433.07">
   <img src="https://github.com/2024Hearo/.github/assets/100350128/78477383-df6b-4ff5-8d0f-208c2d615933" alt="Posts" width="200" height="433.07">
 </div>
-Through chatting, we solve communication issues between individuals with hearing impairments and non-disabled individuals. We recognize sign language and convert it into text and voice, and also convert text written by non-disabled individuals into sign language to facilitate mutual communication.
+ Through chatting, we solve communication issues between individuals with hearing impairments and non-disabled individuals. We recognize sign language and convert it into text and voice, and also convert text written by non-disabled individuals into sign language to facilitate mutual communication.
 
- We provide a feature to convert between sign language and text, enabling individuals with hearing impairments to use Gemini as well.
+  We provide a feature to convert between sign language and text, enabling individuals with hearing impairments to use Gemini as well.
 
 > Sound & Voice Analysis
 <div display:"flex">
@@ -76,7 +75,7 @@ Through chatting, we solve communication issues between individuals with hearing
 </div>
  Voice support resolves the difficulties faced by non-speaking individuals with hearing impairments. Instead of sign language, commonly used phrases and requests needed in emergency situations can be expressed in voice. Additionally, alarms have been added to homes for improved accessibility.
 
- It analyzes the voice and provides the characteristics visually. Hearing impairments who have never heard their voice can experience recognizing the characteristics of their voice. It provides voice reports such as energy and rhythm.
+  It analyzes the voice and provides the characteristics visually. Hearing impairments who have never heard their voice can experience recognizing the characteristics of their voice. It provides voice reports such as energy and rhythm.
 
 ### **Technology Stack**
 - Android Studio
@@ -122,8 +121,8 @@ Contributor
 <table>
   <tr>
     <td align="center"><sub><b>ANDROID, AI</b></sub><br /><img src="https://user-images.githubusercontent.com/100350128/229155435-d6aef346-bf0d-4b4f-861d-b944db8778af.png" width="100px;" alt=""/><br /><sub><b>Kim chaeli</b></sub><br /></td>
-    <td align="center"><sub><b>ANDROID, AI</b></sub><br /><img src="" width="100px;" alt=""/><br /><sub><b>Sim jiyoung</b></sub><br /></td>
-    <td align="center"><sub><b>Backend, AI</b></sub><br /><img src="" width="100px;" alt=""/><br /><sub><b>Kim naeun</b></sub><br /></td>
-    <td align="center"><sub><b>Backend, AI</b></sub><br /><img src="" width="100px;" alt=""/><br /><sub><b>Seong yeogyeong</b></sub><br /></td>
+    <td align="center"><sub><b>ANDROID, AI</b></sub><br /><img src="https://github.com/2024Hearo/.github/assets/100350128/bbf6c05f-b9c3-47e8-9bb7-561a88dd86df" width="100px;" alt=""/><br /><sub><b>Sim jiyoung</b></sub><br /></td>
+    <td align="center"><sub><b>Backend, AI</b></sub><br /><img src="https://github.com/2024Hearo/.github/assets/100350128/22a7cb85-01cc-48a3-9c37-56841df5fc79" width="100px;" alt=""/><br /><sub><b>Kim naeun</b></sub><br /></td>
+    <td align="center"><sub><b>Backend, AI</b></sub><br /><img src="https://github.com/2024Hearo/.github/assets/100350128/dd806428-e94a-4bb1-a136-1c1522d76e5f" width="100px;" alt=""/><br /><sub><b>Seong yeogyeong</b></sub><br /></td>
     </tr>
 </table>
