@@ -42,9 +42,9 @@ It provides chatting without language barriers to hearing impaired people, and s
  Therefore, our service aims to address the issues of communication and technological discrimination. Rather than demanding the hearing-impaired become like us through 'Hearo', we seek to respect them and ensure opportunities for fair social participation.
 
  ### Target & Goal
-  <img src="https://github.com/2024Hearo/.github/assets/100350128/4c8a6d15-c86c-4416-97ab-bcd5dfc6f163" alt="Posts" width="65%" height="50%"> <img src="https://github.com/2024Hearo/.github/assets/100350128/af41ba2f-d26a-48f7-b30f-991f502fdd2a" alt="Posts" width="100" height="100">
-  <img src="https://github.com/2024Hearo/.github/assets/100350128/d2149f84-0e26-43af-af8a-43b20fbf4e6e" alt="Posts" width="100" height="100">
-  <img src="https://github.com/2024Hearo/.github/assets/100350128/42c16d5f-d1d8-49a5-a182-6f0a0d95220d" alt="Posts" width="100" height="100">
+  <img src="https://github.com/2024Hearo/.github/assets/100350128/4c8a6d15-c86c-4416-97ab-bcd5dfc6f163" alt="Posts" width="65%" height="50%"> <img src="https://github.com/2024Hearo/.github/assets/100350128/af41ba2f-d26a-48f7-b30f-991f502fdd2a" alt="Posts" width="90" height="90">
+  <img src="https://github.com/2024Hearo/.github/assets/100350128/d2149f84-0e26-43af-af8a-43b20fbf4e6e" alt="Posts" width="90" height="90">
+  <img src="https://github.com/2024Hearo/.github/assets/100350128/42c16d5f-d1d8-49a5-a182-6f0a0d95220d" alt="Posts" width="90" height="90">
 
 
 
