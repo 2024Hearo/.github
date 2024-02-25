@@ -1,4 +1,3 @@
-
 # Hearo
 >I’ll be your personal communicator, Hearo🦻
 ![Hearo](https://github.com/2024Hearo/.github/assets/100350128/0ca26d33-3c28-42c5-a31b-2b766a2e67ee)
@@ -76,6 +75,7 @@ Through chatting, we solve communication issues between individuals with hearing
     <img src="https://github.com/2024Hearo/.github/assets/100350128/43fa11b2-66e1-46aa-aace-9c2ca4423cc8" alt="Posts" width="200" height="433.07">
 </div>
  Voice support resolves the difficulties faced by non-speaking individuals with hearing impairments. Instead of sign language, commonly used phrases and requests needed in emergency situations can be expressed in voice. Additionally, alarms have been added to homes for improved accessibility.
+
  It analyzes the voice and provides the characteristics visually. Hearing impairments who have never heard their voice can experience recognizing the characteristics of their voice. It provides voice reports such as energy and rhythm.
 
 ### **Technology Stack**
