@@ -1,5 +1,6 @@
 # Hearo
 >I’ll be your personal communicator, Hearo🦻
+![Hearo](https://github.com/2024Hearo/.github/assets/100350128/0ca26d33-3c28-42c5-a31b-2b766a2e67ee)
 
 
 Getting Started
