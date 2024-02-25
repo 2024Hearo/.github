@@ -88,6 +88,22 @@ Through chatting, we solve communication issues between individuals with hearing
 
 Expected effects
 ---
+Through Hearo, we wanted to minimize the technical and linguistic discrimination that hearing-impaired people have faced, and the expected effects of Hero are as follows.
+Available for emergency situations with voice alarm
+
+**Two chat functions allow communication on a variety of topics**
+By breaking down the communication barrier between hearing impaired and non-disabled people through general chatting, social isolation and depression that can occur due to lack of communication are resolved.
+Through chatting with artificial intelligence Gemini, you can learn the latest information and knowledge that you were unable to receive due to technical differences.
+
+**Available for emergency situations with voice alarm**
+Voices frequently used in emergency situations have been added to the home screen, allowing you to quickly call for help and safely escape the emergency situation.
+Users can also add frequently used notifications later, allowing them to create their own emergency notifications.
+
+**Visualization of Voice**
+This is a basic function that can be used not only by the hearing impaired but also by all users who use Hearo. You can see your voice visually through Hearo.
+
+
+Hearo will ultimately ensure autonomy in communication for the hearing impaired and prevent them from becoming socially isolated.
 
 
 Contributor
